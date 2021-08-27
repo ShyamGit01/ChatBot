@@ -1,0 +1,14 @@
+{
+    "chatData" : [
+        {
+            "intence" : "welcome",
+            "question" : ["hi", "hello"],
+            "response" : "hi, How can i help  you ?"
+        },
+        {
+            "intence" : "goodby",
+            "question" : ["by", "thanks", "thankyou"],
+            "response" : "have a nice day"
+        }
+    ]
+}
